@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+#Converter{
+    margin-left: 25%;
+    padding-top: 40px;
+
+}
+.as{
+
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: auto;
+    margin-top: 10%;
+
+}
+h2{
+  margin: auto;
+}
